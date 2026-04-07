@@ -8,7 +8,7 @@ function App() {
             <header className="App-header">
                 <h1>VocalFlow Windows Clone</h1>
                 <p style={{ color: '#86868b', marginBottom: '30px' }}>
-                    Production-ready MERN stack implementation for Windows.
+                    {/* Production-ready MERN stack implementation for Windows. */}
                 </p>
             </header>
             <main>
