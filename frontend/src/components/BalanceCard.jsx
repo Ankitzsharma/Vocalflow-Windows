@@ -71,7 +71,7 @@ const BalanceCard = () => {
         <div className="info-group">
           <div className="info-row">
             <span className="label">Status:</span>
-            <span className="value-text">{deepgramData?.status || 'Connected'} ✅</span>
+            <span className="value-text">{deepgramData?.status || 'Connected'} </span>
           </div>
           <div className="info-row">
             <span className="label">Project Name:</span>
